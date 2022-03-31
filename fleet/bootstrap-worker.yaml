@@ -10,7 +10,7 @@ spec:
     sync:
       source:
         git:
-          url: https://github.com/squaremo/fleeet-config
+          url: https://github.com/richardcase/fleeet-config
           version:
             tag: "v0.2"
       package:
@@ -28,7 +28,7 @@ spec:
     sync:
       source:
         git:
-          url: https://github.com/squaremo/fleeet-config
+          url: https://github.com/richardcase/fleeet-config
           version:
             tag: "v0.2"
       package:

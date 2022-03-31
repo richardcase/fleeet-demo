@@ -5,8 +5,8 @@ metadata:
   name: fleet-objects
   namespace: flux-system
 spec:
-  dependsOn:
-  - name: fleeet-control
+  # dependsOn:
+  # - name: fleeet-control
   interval: 1m0s
   path: ./fleet
   prune: true
