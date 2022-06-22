@@ -8,9 +8,9 @@ spec:
   sync:
     source:
       git:
-        url: https://github.com/stefanprodan/podinfo
+        url: https://github.com/richardcase/podinfo
         version:
-          tag: 5.2.0
+          tag: v0.1.0
     package:
       kustomize:
         path: ./kustomize
